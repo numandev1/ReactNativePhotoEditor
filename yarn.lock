@@ -5325,6 +5325,11 @@ react-native-codegen@^0.0.7:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
+react-native-photoeditorsdk@^2.10.1:
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/react-native-photoeditorsdk/-/react-native-photoeditorsdk-2.10.1.tgz#98ca38c6ebba918cdaa9319d96b6c3afad391cdf"
+  integrity sha512-UJmC38jW5ALAdsz0Gv+/C69rzATP793uy8TblL2zBnrPlbsVsNTSXGsY2x9kBM8NXN1MQqZ5ZUp1Lx4vkAQxNQ==
+
 react-native@0.66.2:
   version "0.66.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.66.2.tgz#11035172a73f0815c28699b1fce3a6651dd6355b"

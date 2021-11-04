@@ -1,0 +1,44 @@
+{
+  "owner": "9elements",
+  "version": "2.1",
+  "enterprise_license": true,
+  "available_actions": [
+    "magic",
+    "filter",
+    "transform",
+    "sticker",
+    "text",
+    "adjustments",
+    "brush",
+    "focus",
+    "frames",
+    "camera"
+  ],
+  "features": [
+    "adjustment",
+    "filter",
+    "focus",
+    "overlay",
+    "transform",
+    "text",
+    "sticker",
+    "frame",
+    "brush",
+    "camera",
+    "textdesign",
+    "library",
+    "export"
+  ],
+  "platform": "iOS",
+  "app_identifiers": [
+    "imgly",
+    "com.9elements.imgly",
+    "ly.img.enterprise.app",
+    "com.onshobbak.lava"
+  ],
+  "api_token": "j8GF4PecZ5w0cZGI-3I2uA",
+  "domains": ["https://api.photoeditorsdk.com"],
+  "issued_at": 1519513845,
+  "expires_at": null,
+  "signature": "kC0r1T6b1RzwHr32YFe6ySJH3Q47NwE1X4/mok2Uqhwfm79g10di4YtTqSkB2nEfLU0Z6VuUkiTQG2tMx5E6kDrWu6j96BAKQKI6Ax9RZt/EscemJG36i9xR1YerjIJlKXKYhfxDmnYLbhMQX9iLtSZaPm6MkmAcxg3CQVgjeedWp3ap0mayyAsjTh38n0QM+C3BRBZaC2tLgWF78qBBOWU5AObxYgjYI84gdz1t6OfxgxfIYOhP6XVstA5QdQB1FKokWyJcY/hggBTD66Ur/K0j4e3ngJsI2fvwJbLyp7TQKloRzs+viaRVAMwHa8vaHRaxQk4/Y12tuYCngQoJEOpln4akvBcUjBplwh9m/etLmfcVkyFHCgqk1q1GURvfX7O4HFt6dzaQ8o/qFGh5z/lJ05IwZw1OqirRnYXEafLnTzuveGoY6iDcQUR1tUiukO5fWnnYUte9ZVIcdQOHpF6AsxYpHbRVCo6A+YbwG+Q6riJZXPgvVQk0PGCN42pyxAvS6ntX4DzpmkgAFP28ckZHFfBn1VSFY8a5nlACAC/GjlhRlqgGr9FqzC+yHX0vkAxBeVNzr+haY1Ww6ZzSbaaSXEjsDJy4KXA+oEsf3O3ZoiMa/yJBm4KvvFNAJLiNIO6jBFMA4QvuE6CqVHN+8hJN5nvI9puTWfO9tF/8b+E="
+}
